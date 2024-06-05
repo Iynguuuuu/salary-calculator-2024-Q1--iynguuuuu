@@ -6,8 +6,9 @@ To install node modules - npm i <br/>
 To run the development server - npm run dev
 
 
-I've used Next.js with **shadcn** and **Tailwind CSS** for UI design. For state management, 
-I used **Zustand** because it was easy to work with. For form validation, I used **Zod**.
+I've used Next.js with **shadcn** and **Tailwind CSS** for UI design. 
+<br/> For state management, I used **Zustand** because it was easy to work with. 
+<br/> For form validation, I used **Zod**.
 
 I encountered an issue with the checkbox validation for EPF/ETF. Otherwise, the calculation works perfectly fine.
 
