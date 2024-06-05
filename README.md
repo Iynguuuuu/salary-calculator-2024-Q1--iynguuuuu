@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-To install node modules - npm i
+To install node modules - npm i <br/>
 To run the development server - npm run dev
 
 
